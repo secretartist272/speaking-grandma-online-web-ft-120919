@@ -20,6 +20,7 @@ def speak_to_grandma(phrase)
     
   # phrase = 'WHAT DID YOU EAT TODAY'
   # what is expected return "NO, NOT SINCE 1938!"
+  # is what we are saying (phrase) all uppercase?
 
   
 else
