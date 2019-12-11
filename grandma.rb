@@ -22,7 +22,7 @@ def speak_to_grandma(phrase)
   # what is expected return "NO, NOT SINCE 1938!"
   # is what we are saying (phrase) all uppercase?
   elsif phrase
-    return 
+    return "NO, NOT SINCE 1938!"
 
   
 else
