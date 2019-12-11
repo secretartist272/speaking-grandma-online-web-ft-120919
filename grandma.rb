@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
     "I LOVE YOU PUMPKIN!"
     
   # phrase = 'WHAT DID YOU EAT TODAY'
-  # what is expected return
+  # what is expected return "NO, NOT SINCE 1938!"
 
   
 else
